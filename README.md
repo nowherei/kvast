@@ -1,4 +1,3 @@
-# kvast
-LP Kvast
+# LP Kvast
 
 htmlacademy fianl
